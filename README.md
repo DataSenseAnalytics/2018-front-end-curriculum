@@ -19,7 +19,7 @@
 | Regular Expressions                      |
 | Asynchronous basic. <br /> - setTimeout<br /> - nodeJS user Input |
 | JavaScript clean code                    |
-| JavaScript debugging<br /> - [Advanced JS Debugging](https://keyholesoftware.com/2014/01/06/advanced-debugging-techniques-in-javascript-part-1/)<br />- nodeJS debugging <br />- Chrome dev tools(source, console panel) |
+| JavaScript debugging<br /> - [Advanced JS Debugging](https://keyholesoftware.com/2014/01/06/advanced-debugging-techniques-in-javascript-part-1/)<br /> - [Debug It Book](https://www.e-reading.club/bookreader.php/142038/Debug_It%21_Find%2C_Repair%2C_and_Prevent_Bugs_in_Your_Code.pdf)<br /> - nodeJS debugging <br />- Chrome dev tools(source, console panel) |
 | programming design basic                 |
 | [ES2015 new features](https://babeljs.io/learn-es2015/#ecmascript-2015-features)|
 
